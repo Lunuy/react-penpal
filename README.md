@@ -2,6 +2,7 @@
 Penpal on React
 
 ## Example
+parent
 ```ts
 import { AsyncMethodReturns } from "penpal/lib/types";
 import React, { useEffect, useLayoutEffect, useState } from "react";
