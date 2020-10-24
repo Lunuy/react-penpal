@@ -1,6 +1,6 @@
 {
   "name": "react-penpal",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Penpal on React",
   "main": "./dist/index.js",
   "scripts": {
