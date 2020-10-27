@@ -1,6 +1,6 @@
 {
   "name": "react-penpal",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Penpal on React",
   "main": "./dist/index.js",
   "scripts": {
@@ -26,6 +26,7 @@
   "homepage": "https://github.com/Lunuy/react-penpal#readme",
   "devDependencies": {
     "@types/react-dom": "^16.9.8",
+    "react": "^17.0.1",
     "react-dom": "^17.0.0",
     "ts-loader": "^8.0.6",
     "typescript": "^4.0.3",
@@ -36,7 +37,9 @@
   },
   "dependencies": {
     "@types/react": "^16.9.53",
-    "penpal": "^5.3.0",
-    "react": "^17.0.0"
+    "penpal": "^5.3.0"
+  },
+  "peerDependencies": {
+    "react": "^17.0.1"
   }
 }
