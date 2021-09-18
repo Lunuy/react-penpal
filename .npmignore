@@ -1,5 +1,5 @@
 src
-test
+example
 .gitignore
 tsconfig.json
 webpack.config.js
